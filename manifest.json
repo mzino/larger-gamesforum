@@ -1,0 +1,13 @@
+{
+   "manifest_version": 2,
+   "name": "#MakeGamesforumLargeAgain",
+   "version": "0.2",
+   "description": "Biascica, apri tutto!",
+   "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+   "content_scripts": [
+      {
+         "css": ["style.css"],
+         "matches": [ "https://www.gamesforum.it/*" ]
+      }
+   ]
+}

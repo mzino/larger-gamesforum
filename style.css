@@ -1,0 +1,25 @@
+#header,
+#channel-tabbar,
+#channel-subtabbar,
+#breadcrumbs,
+#content,
+#footer-copyright,
+#footer,
+.b-top-menu__container {
+	max-width: 100%!important;
+}
+.forum-item.main:not(.new) .forum-wrapper .forum-info .forum-title,
+.forum-item.main:not(.new) .forum-wrapper .forum-info .forum-title b,
+.forum-item.sub:not(.new) .forum-wrapper .forum-info .forum-title,
+.forum-item.sub:not(.new) .forum-wrapper .forum-info .forum-title b {
+	font-weight: normal!important;
+}
+.topic-title.js-topic-title,
+.js-topic-prefix,
+.js-post__content-text.OLD__post-content-text.restore.h-wordwrap {
+	font-size: 14px!important;
+}
+.restore th,
+.restore td {
+	border: none!important;
+}
