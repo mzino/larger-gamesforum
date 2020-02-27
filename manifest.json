@@ -1,8 +1,8 @@
 {
    "manifest_version": 2,
-   "name": "#MakeGamesforumLargeAgain",
-   "version": "0.4",
-   "description": "Biascica, apri tutto!",
+   "name": "Larger GamesForum.it",
+   "version": "0.5",
+   "description": "Makes GamesForum.it larger",
    "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
    "content_scripts": [
       {
